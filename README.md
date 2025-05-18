@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alid Shaikh</h1>
-<h3 align="center">A passionate developing new Ideas into Life</h3>
+<h3 align="center">A passionate Devloper , Developing new Ideas into Life</h3>
 
 - 🔭 I’m currently working on **Next.js**
 
